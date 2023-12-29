@@ -1,0 +1,8 @@
+<?php
+$name="krupali";
+$age=19;
+echo "my name is: ".$name;
+echo "i am ".[$age]. "years old!";
+
+
+?>
